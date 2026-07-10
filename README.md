@@ -18,10 +18,10 @@ This project uses the IBM HR Analytics Employee Attrition dataset to identify th
 - Visualizations: bar charts, heatmaps, boxplots
 
 ## 🔍 Key Findings
-*(To be added after analysis)*
+To be added after analysis
 
 ## ✅ Recommendations
-*(To be added after analysis)*
+To be added after analysis
 
 ## 📁 What's in This Repo
 - `attrition_analysis.ipynb` — full notebook with code, charts, and commentary
